@@ -1,3 +1,3 @@
-import sliderMain from "./modules/slider";
+import timerMain from "./modules/timer";
 
-sliderMain();
+timerMain("01 january 2023");
